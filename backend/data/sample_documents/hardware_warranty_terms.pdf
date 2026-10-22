@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+4 0 obj
+<< /Length 754 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+16 TL
+(FICTIONAL COMPANY HARDWARE LIMITED WARRANTY TERMS) '
+(Disclaimer: Fictional document for RAG demonstration and automated testing.) '
+() '
+(1. WARRANTY COVERAGE PERIOD) '
+(All hardware products purchased directly through authorized retailers include a) '
+(1-Year Limited Hardware Warranty covering defects in materials and workmanship.) '
+(The warranty period begins on the verified delivery date shown in your carrier tracking.) '
+() '
+(2. WHAT IS COVERED) '
+(- Factory manufacturing defects in audio drivers, amplifiers, and internal circuitry.) '
+(- Battery degradation where capacity drops below 70 percent within the first 12 months.) '
+(- Power supply units and charging docks included in original packaging.) '
+() '
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+6 0 obj
+<< /Length 629 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+16 TL
+(3. WHAT IS NOT COVERED \(EXCLUSIONS\)) '
+(- Accidental liquid spills, physical drops, and cracked enclosures.) '
+(- Damage caused by unauthorized repair, disassembly, or third-party modifications.) '
+(- Normal cosmetic wear including superficial surface scratches or cable fraying.) '
+() '
+(4. WARRANTY CLAIM PROCEDURE) '
+(To initiate a warranty claim, submit your proof of purchase and serial number at) '
+(https://warranty.fictional-brand.example. Once approved, you will receive an RMA number) '
+(and a prepaid shipping label. Replacement hardware is dispatched within 5 business days.) '
+() '
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000296 00000 n 
+0000001101 00000 n 
+0000001276 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1956
+%%EOF

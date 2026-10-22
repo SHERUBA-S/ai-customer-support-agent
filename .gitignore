@@ -1,0 +1,43 @@
+# Python & Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets & Local Configurations
+.env
+*.env
+*.pem
+*.key
+!.env.example
+!backend/.env.example
+
+# Vector Database and Generated Storage
+/data/
+backend/data/chroma_db/
+backend/data/uploads/
+!backend/data/sample_documents/
+
+# Frontend dependencies and builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.eslintcache
+*.tsbuildinfo
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

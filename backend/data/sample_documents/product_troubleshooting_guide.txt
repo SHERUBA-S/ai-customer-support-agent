@@ -1,0 +1,51 @@
+================================================================================
+[FICTIONAL COMPANY] HARDWARE & SMART DEVICE TROUBLESHOOTING GUIDE
+================================================================================
+DISCLAIMER: This is a fictional document created for demonstration and testing
+of the AI Customer Support RAG Agent. It does not represent any real organization.
+================================================================================
+
+SECTION 1: DEVICE WILL NOT POWER ON
+--------------------------------------------------------------------------------
+If your smart hub or audio device is unresponsive:
+Step 1: Check power connection. Verify the USB-C power cable is firmly seated into
+both the device port and the wall adapter. Do not use non-certified unbranded chargers.
+Step 2: Perform a Hard Reset:
+  - Disconnect the USB-C cable from the back of the device.
+  - Press and hold the primary POWER button for 15 seconds while disconnected.
+  - While still holding the button, reconnect the USB-C cable.
+  - Release the button after the LED indicator pulses blue twice.
+Step 3: Power Outlet Check. Plug the adapter into a verified working wall outlet
+(test with a lamp or phone charger).
+Step 4: If the LED indicator remains dark after 30 minutes of charging, the internal
+power capacitor may have experienced a surge. Contact warranty support for a replacement.
+
+SECTION 2: WI-FI & BLUETOOTH CONNECTIVITY ISSUES
+--------------------------------------------------------------------------------
+Symptom: Device disconnects from Wi-Fi or fails during mobile app pairing.
+- Wi-Fi Frequency Requirements: The device operates on 2.4 GHz 802.11 b/g/n Wi-Fi networks.
+  If your home router broadcasts dual-band 5.0 GHz and 2.4 GHz with the same SSID,
+  temporarily split the bands or enable 2.4 GHz legacy compatibility mode.
+- Factory Wi-Fi Reset:
+  - Press and hold the Wi-Fi icon button on the bottom panel for 8 seconds.
+  - The LED ring will pulse amber to confirm discovery mode.
+  - Open the mobile companion app, tap 'Add Device', and hold phone within 3 feet.
+- Bluetooth Distance: Bluetooth range is 33 feet (10 meters) unobstructed. Solid brick
+  walls, microwaves, and metal shelving can significantly attenuate Bluetooth signals.
+
+SECTION 3: AUDIO DISTORTION, STATIC, AND CRACKLING
+--------------------------------------------------------------------------------
+Step 1: Ensure firmware is updated to version 3.4.1 or higher via the Companion App.
+Step 2: Clean the acoustic mesh grills using a soft dry microfiber cloth. Never insert
+pins, liquids, or pressurized aerosol air cans directly into speaker ports.
+Step 3: Clear paired Bluetooth cache on your host smartphone or PC:
+  - Remove 'Fictional-Audio-Pro' from your device list.
+  - Restart host device.
+  - Re-pair device.
+
+SECTION 4: OVERHEATING AND THERMAL SHUTDOWN
+--------------------------------------------------------------------------------
+The device includes internal thermal throttling that automatically shuts down the system
+if ambient temperatures exceed 115°F (46°C).
+- Allow the unit to cool in a shaded, well-ventilated area for 20 minutes before powering on.
+- Maintain at least 4 inches of clearance around air intake vents on the rear panel.
